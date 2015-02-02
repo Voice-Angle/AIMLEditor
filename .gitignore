@@ -1,0 +1,6 @@
+.settings/
+bin/
+*.class
+Data/
+zh/
+Bots/
